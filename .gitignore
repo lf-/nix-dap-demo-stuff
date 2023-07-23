@@ -1,0 +1,4 @@
+/target
+result
+.envrc.local
+plugin/nix_otel_plugin.h

@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "plugin",
+]
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
+
